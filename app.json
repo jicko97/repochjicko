@@ -1,12 +1,12 @@
 {
-  "name": "REX FILE STORING",
+  "name": "repochjicko",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/REX-BOTZ/REX-FILE-STORING",
+  "repository": "https://github.com/jicko97/repochjicko",
   "logo": "https://telegra.ph/file/93e7ae69a568534628004.jpg",
   "env": {
     "TG_BOT_TOKEN": {
